@@ -1,0 +1,3 @@
+$ python test_bistro.py
+
+ALL TESTS PASSED!
